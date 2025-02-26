@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/wedding/wedding/index.html"
+      "destination": "/wedding/index.html"
     }
   ]
 }
